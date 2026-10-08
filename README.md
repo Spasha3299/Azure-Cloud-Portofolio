@@ -1,7 +1,5 @@
 # Azure-Cloud-Portofolio
 
-# Azure Cloud Portfolio
-
 Hands-on Azure projects demonstrating cloud infrastructure,
 networking, storage, identity, security, monitoring, and
 cost management.
